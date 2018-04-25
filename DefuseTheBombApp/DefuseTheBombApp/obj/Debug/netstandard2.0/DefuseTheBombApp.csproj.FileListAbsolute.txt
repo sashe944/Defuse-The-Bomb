@@ -1,0 +1,11 @@
+C:\Users\Home\Desktop\DefuseTheBombApp\DefuseTheBombApp\DefuseTheBombApp\bin\Debug\netstandard2.0\DefuseTheBombApp.deps.json
+C:\Users\Home\Desktop\DefuseTheBombApp\DefuseTheBombApp\DefuseTheBombApp\bin\Debug\netstandard2.0\DefuseTheBombApp.dll
+C:\Users\Home\Desktop\DefuseTheBombApp\DefuseTheBombApp\DefuseTheBombApp\bin\Debug\netstandard2.0\DefuseTheBombApp.pdb
+C:\Users\Home\Desktop\DefuseTheBombApp\DefuseTheBombApp\DefuseTheBombApp\obj\Debug\netstandard2.0\DefuseTheBombApp.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\DefuseTheBombApp\DefuseTheBombApp\DefuseTheBombApp\obj\Debug\netstandard2.0\DefuseTheBombApp.App.xaml.g.cs
+C:\Users\Home\Desktop\DefuseTheBombApp\DefuseTheBombApp\DefuseTheBombApp\obj\Debug\netstandard2.0\DefuseTheBombApp.GamePage.xaml.g.cs
+C:\Users\Home\Desktop\DefuseTheBombApp\DefuseTheBombApp\DefuseTheBombApp\obj\Debug\netstandard2.0\DefuseTheBombApp.MainPage.xaml.g.cs
+C:\Users\Home\Desktop\DefuseTheBombApp\DefuseTheBombApp\DefuseTheBombApp\obj\Debug\netstandard2.0\DefuseTheBombApp.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\DefuseTheBombApp\DefuseTheBombApp\DefuseTheBombApp\obj\Debug\netstandard2.0\DefuseTheBombApp.AssemblyInfo.cs
+C:\Users\Home\Desktop\DefuseTheBombApp\DefuseTheBombApp\DefuseTheBombApp\obj\Debug\netstandard2.0\DefuseTheBombApp.dll
+C:\Users\Home\Desktop\DefuseTheBombApp\DefuseTheBombApp\DefuseTheBombApp\obj\Debug\netstandard2.0\DefuseTheBombApp.pdb

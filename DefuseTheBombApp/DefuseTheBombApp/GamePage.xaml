@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DefuseTheBombApp.GamePage">
+    <ContentPage.Content>
+        <StackLayout x:Name="myStackLayout">
+            <Label Text="Defuse the Bomb!" HorizontalOptions="Center" FontSize="Large" />
+
+            <Label 
+                x:Name="lblUserName" 
+                Text="Defuse the Bomb!" 
+                HorizontalOptions="Center"
+                FontSize="Medium" />
+
+            <Label 
+                x:Name="lblScore" 
+                Text="" 
+                HorizontalOptions="End"
+                FontSize="Default" />
+            <Label 
+                x:Name="lblLevel" 
+                Text="" 
+                HorizontalOptions="Start"
+                FontSize="Micro" />
+            <Button  
+                Text="1" 
+               
+                Clicked="Btn_Clicked"/>
+
+            <Button 
+                Text="2" 
+                 Clicked="Btn_Clicked" />
+
+            <Button  
+                Text="3"
+                Clicked="Btn_Clicked" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

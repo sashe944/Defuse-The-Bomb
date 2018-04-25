@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DefuseTheBombApp"
+             x:Class="DefuseTheBombApp.MainPage">
+
+    <StackLayout>
+
+        <Label x:Name="lblUsername" />
+        
+        <Entry 
+            x:Name="UserName" 
+            Placeholder="Enter Your UserName"/>
+
+        <Button 
+            x:Name="btnPlay" 
+            Text="Play" 
+            Clicked="Btn_PlayClicked"/>
+        
+    </StackLayout>
+</ContentPage>
